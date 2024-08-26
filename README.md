@@ -28,3 +28,32 @@ fibo(16)
 ~~~
 
 The loop model has already set in stone values: (num1, num2, newNum). This model opts to use a for loop to iterate a set amount of times.
+
+~~~
+//JS
+const fiboRe = (c, n, y) => {
+    let num1 = n
+    let num2 = y
+    let newNum;
+    let count = c
+
+    console.log(num1)
+    console.log(num2)
+    if(count <= 0){
+        count += 1
+        newNum = num1 + num2
+        num1 = num2
+        num2 = newNum
+        console.log(newNum)
+        fiboRe(count, num1, num2)
+    }
+}
+
+fiboRe(0, 1, 1)
+~~~
+
+The recursion model opts to use methods to loop itself instead of a loop. Once the condition is met the functon then ends.
+
+### The Big O Notation for this algorithm
+
+To be completely honest I'm not sure about this. If I can answer then I'll update the README. 
