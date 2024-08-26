@@ -1,0 +1,14 @@
+C:\Users\ethan\OneDrive\Documents\GitHub\dsa-8-26-24\bin\Debug\net8.0\dsa-8-26-24.exe
+C:\Users\ethan\OneDrive\Documents\GitHub\dsa-8-26-24\bin\Debug\net8.0\dsa-8-26-24.deps.json
+C:\Users\ethan\OneDrive\Documents\GitHub\dsa-8-26-24\bin\Debug\net8.0\dsa-8-26-24.runtimeconfig.json
+C:\Users\ethan\OneDrive\Documents\GitHub\dsa-8-26-24\bin\Debug\net8.0\dsa-8-26-24.dll
+C:\Users\ethan\OneDrive\Documents\GitHub\dsa-8-26-24\bin\Debug\net8.0\dsa-8-26-24.pdb
+C:\Users\ethan\OneDrive\Documents\GitHub\dsa-8-26-24\obj\Debug\net8.0\dsa-8-26-24.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\ethan\OneDrive\Documents\GitHub\dsa-8-26-24\obj\Debug\net8.0\dsa-8-26-24.AssemblyInfoInputs.cache
+C:\Users\ethan\OneDrive\Documents\GitHub\dsa-8-26-24\obj\Debug\net8.0\dsa-8-26-24.AssemblyInfo.cs
+C:\Users\ethan\OneDrive\Documents\GitHub\dsa-8-26-24\obj\Debug\net8.0\dsa-8-26-24.csproj.CoreCompileInputs.cache
+C:\Users\ethan\OneDrive\Documents\GitHub\dsa-8-26-24\obj\Debug\net8.0\dsa-8-26-24.dll
+C:\Users\ethan\OneDrive\Documents\GitHub\dsa-8-26-24\obj\Debug\net8.0\refint\dsa-8-26-24.dll
+C:\Users\ethan\OneDrive\Documents\GitHub\dsa-8-26-24\obj\Debug\net8.0\dsa-8-26-24.pdb
+C:\Users\ethan\OneDrive\Documents\GitHub\dsa-8-26-24\obj\Debug\net8.0\dsa-8-26-24.genruntimeconfig.cache
+C:\Users\ethan\OneDrive\Documents\GitHub\dsa-8-26-24\obj\Debug\net8.0\ref\dsa-8-26-24.dll
