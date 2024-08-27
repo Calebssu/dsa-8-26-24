@@ -57,3 +57,6 @@ The recursion model opts to use methods to loop itself instead of a loop. Once t
 ### The Big O Notation for this algorithm
 
 To be completely honest I'm not sure about this. If I can answer then I'll update the README. 
+
+EDIT:
+The Big O notation for this algorithm is O(n) linear time complexity. It's linear time because the running time of this code will increase with the number the user passes in.
